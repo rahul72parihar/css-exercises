@@ -1,0 +1,16 @@
+#blue{
+    color: blue;
+    font-size: 70px;
+}
+.pink{
+    background-color: pink;
+    font-size: 30px;
+}
+.pink.cool{
+    font-size: 50px;
+}
+#green{
+    background-color: rgb(184, 247, 171);
+    font-size: 40px;
+    font-weight: bold;
+}
